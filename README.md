@@ -6,39 +6,9 @@ A Non-Interactive UI showcasing upcoming tickets inside a ticket booking applica
 <img src="assets/images/screenshot.jpg" alt="Screen" width="25%"/>
 
 
-
-
-# Upcoming Movie UI
-
-A Non-Interactive UI showcasing upcoming tickets inside a ticket booking application
-
-<img src="assets/images/screenshot.jpg" alt="Screen" width="25%"/>
-
-
-
-
-# Upcoming Movie UI
-
-A Non-Interactive UI showcasing upcoming tickets inside a ticket booking application
-
-<img src="assets/images/screenshot.jpg" alt="Screen" width="25%"/>
-
-
-
-
 ## Installation
 
-
-    
-# Upcoming Movie UI
-
-A Non-Interactive UI showcasing upcoming tickets inside a ticket booking application
-
-## Screenshots
-
-<img src="assets/images/screenshot.jpg" alt="Screen" width="25%"/>
-
-
+- Check Release
 
 ## Steps
 
