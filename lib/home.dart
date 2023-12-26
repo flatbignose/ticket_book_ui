@@ -46,8 +46,8 @@ class ScreenHome extends StatelessWidget {
                             child: ListTile(
                               leading: CircleAvatar(
                                 backgroundColor: kwhite,
-                                backgroundImage: NetworkImage(
-                                    'https://i3.wp.com/www.thetalentedindian.com/wp-content/uploads/2020/11/Anuv-Jain-1.jpg'),
+                                backgroundImage:
+                                    AssetImage('assets/images/anuv.jpeg'),
                               ),
                               trailing: Column(
                                 crossAxisAlignment: CrossAxisAlignment.end,
